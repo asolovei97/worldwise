@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "9351",
+      "cityName": "Roquelaure",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-08T22:28:47.558Z",
+      "notes": "",
+      "position": {
+        "lat": "43.70759350405296",
+        "lng": "0.5712890625000001"
+      }
+    },
+    {
+      "id": "58cd",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-12-09T15:41:04.337Z",
+      "notes": "",
+      "position": {
+        "lat": "51.440312757160115",
+        "lng": "-0.17578125"
+      }
+    },
+    {
+      "id": "178e",
+      "cityName": "Luna",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-09T15:59:35.472Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-0.8789062500000001"
+      }
+    }
+  ]
+}
